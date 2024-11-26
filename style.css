@@ -143,8 +143,7 @@ body {
 
 /* Gaya untuk Header */
 header {
-    background: linear-gradient(135deg, #729ff14b, #2a5298); /* Gradasi warna */
-    color: #fff;
+    
     text-align: center;
     padding: 40px 20px;
     font-family: 'Montserrat', sans-serif;
